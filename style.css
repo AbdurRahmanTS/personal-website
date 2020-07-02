@@ -70,6 +70,7 @@ p{
 #client-say-area{
     background-image: url(Img/footer-bg.png);
     background-repeat: no-repeat;
+    margin-top: 142px;
 }
 .client-say{
     text-align: center;
