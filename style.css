@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    font-family: 'Noto Serif', serif;
+}
+section{
+    margin-bottom: 15px;
+    height: 500px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 25px;
+}
+img{
+    width: 100%;
+}
+p{
+    color: #707070;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+#name-area{
+    background-image: url(Img/header-bg.png);
+    background-repeat: no-repeat;
+}
+.helf-width{
+    width: 40%;
+    margin: 3%;
+    padding: 2%;
+    float: left;
+}
+.img-pbl{
+    margin-top: -132px;
+}
+.my-name{
+    color: #EC4E7A;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #EC4E7A, #ED4D73);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+#biography-area{
+    background-image: url(Img/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.three-column{
+    width: 25%;
+    margin: 3%;
+    padding: 1%;
+    float: left;
+}
+#my-work{
+    text-align: center;
+}
+#latest-work-area{
+    background-image: url(Img/latest-work-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    overflow: hidden;
+}
+#client-say-area{
+    background-image: url(Img/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.client-say{
+    text-align: center;
+}
+.client-say h4{
+    margin-bottom: -12px;
+}
+.client-mes{
+    width: 628px;
+    margin: auto;
+    margin-bottom: 30px;
+    color: black;
+}
+.message{
+    text-align: center;
+    background-color: #EC4F8E;
+    padding: 20px;
+    width: 700px;
+    border-radius: 5px;
+    margin: 0 auto;
+    line-height: 0;
+}
+.message p,a{
+    color: white;
+}
+.message h3{
+    margin-top: -20px;
+}
+.message a{
+    text-decoration: none;
+    font-size: 20px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+
